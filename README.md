@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DebbieQ
+- 👋 Hi, I’m Deborah Quarshie
 - 👀 I’m interested in Cloud DevOps
 - 🌱 I’m currently enrolled in the ALX-T Cloud DevOps Engineer nanodegree program sponsored by ALX
 - 👩‍💻 I work as a Datacenter DevOps Engineer in charge of storage 
